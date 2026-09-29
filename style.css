@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#blue {
+  color: blue;
+  cursor: pointer;
+}
+#titulo-foto {
+  transition: color 0.3s ease;
+}
+span[onclick],
+h2[onclick],
+h3[onclick] {
+  cursor: pointer;
+}
